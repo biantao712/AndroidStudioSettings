@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 (venv) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/venv/Lib" />
+        <root url="file://$USER_HOME$/venv/Scripts" />
+        <root url="file://C:/Program Files/Python 27/Lib" />
+        <root url="file://C:/Program Files/Python 27/DLLs" />
+        <root url="file://C:/Program Files/Python 27/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/venv" />
+        <root url="file://$USER_HOME$/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.AndroidStudio3.2/system/python_stubs/1525085553" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/venv/Lib" />
+        <root url="file://$USER_HOME$/venv/Scripts" />
+        <root url="file://C:/Program Files/Python 27/Lib" />
+        <root url="file://C:/Program Files/Python 27/DLLs" />
+        <root url="file://C:/Program Files/Python 27/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/venv" />
+        <root url="file://$USER_HOME$/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.AndroidStudio3.2/system/python_stubs/1525085553" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
