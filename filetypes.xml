@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="build" type="Bash" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping ext="mk" type="PLAIN_TEXT" />
     </extensionMap>
