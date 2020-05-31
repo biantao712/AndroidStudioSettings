@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="build" type="Bash" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="Bash" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
