@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping pattern="build" type="Bash" />
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
