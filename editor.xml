@@ -9,6 +9,20 @@
     <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="ObjectiveC" value="true" />
+        <entry key="Python" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
 </application>
